@@ -9,7 +9,11 @@ Welcome to the Turtle Crossing Game, a fun and challenging project built in Pyth
 - If your turtle collides with a car, it's game over.
 - Your goal is to reach the other side of the screen safely, increasing your level in the process.
 
-![Turtle Crossing Game](Uploading Turtle_Crossing.mp4…) 
+![Turtle Crossing Game]( 
+
+https://github.com/sarvesh-2109/Turtle-Crossing-Game/assets/113255836/ed5eb88d-5e4f-4d92-be92-bdeaffa80255
+
+  ) 
 
 ## Getting Started
 
